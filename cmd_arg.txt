@@ -1,0 +1,1 @@
+python smc_ml_app.py --date "6/26/2025" --time "16:00" --criteria "LG RGC UP" --cw 0 --cl 2
