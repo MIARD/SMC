@@ -1,4 +1,5 @@
 Model Training Details
-Date and Time (UTC): 2025-07-02 11:26:49 UTC
-Training Set Size: 3073 rows----- Test Set Size: 20 rows ---- Total: 3093 rows in dataset.
-Number of Features: 83 
+Date and Time (UTC): 2025-07-04 04:28:30 UTC
+Training Set Size: 3118 rows----- Test Set Size: 5 rows ---- Total: 3123 rows in dataset.
+Train-From S/L: 1 - 3118 Date: 23/10/2024 09:15 - 03/07/2025 15:45
+Test-From S/L: 3119 - S/L: 3123 Date: 03/07/2025 17:15 - 04/07/2025 03:00
